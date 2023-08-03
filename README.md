@@ -10,7 +10,7 @@ Here, you'll find my journey as I explore the fascinating world of software deve
 
 👷🏽‍♀️ I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in various domains.
 
-💡 As an aspiring software developer, I'm particularly interested in the fields of Artificial Intelligence  and Machine Learning.
+💡 
 
 
                                                    My Interests 🌟
