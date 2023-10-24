@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile! 🚀
 
-Hey there! I'm Kristabel, a passionate software developer and a computer science student.
+Hey there! I'm   Christabell, a tech entusiast passionate software developement and emerging technologies.
 Here, you'll find my journey as I explore the fascinating world of software development and contribute to open source projects.
 
 
