@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile! 🚀
 
-Hey there! I'm   Christabell, a tech entusiast passionate software developement and emerging technologies.
-Here, you'll find my journey as I explore the fascinating world of software development and contribute to open source projects.
+Hey there! I'm   Christabell, a tech entusiast passionate about data and emerging technologies.
+Here, you'll find my journey as I explore the fascinating world of data science and contribute to open source projects.
 
 
                                                       About Me 👩‍💻
@@ -10,7 +10,7 @@ Here, you'll find my journey as I explore the fascinating world of software deve
 
 👷🏽‍♀️ I'm constantly seeking new challenges and opportunities to expand my knowledge and skills in various domains.
 
-💡 I believe that software can be a powerful tool for social change.
+💡 I believe that data science is very powerful tool for social change.
 
 
                                                    My Interests 🌟
@@ -24,7 +24,7 @@ Open Source: I firmly believe in the power of collaboration and the open source 
                                                    My Projects 💼
 
 
-📂 I'll be sharing my projects on this GitHub profile, ranging from personal coding experiments to open source contributions. Through my repositories, you can expect to find projects related to software development, AI/ML applications, and various other tech experiments.
+📂 I'll be sharing my projects on this GitHub profile, ranging from personal coding experiments to open source contributions. Through my repositories, you can expect to find projects related to data analysis, AI/ML applications, and various other tech experiments.
 
                                              Collaboration Opportunities 🤝
 
@@ -34,11 +34,11 @@ Open Source: I firmly believe in the power of collaboration and the open source 
 
 Thank you for visiting my GitHub profile. 
 
-I'm thrilled to have you here! If you're as passionate about software development, AI/ML, and open source as I am, let's connect and learn from each other. Feel free to explore my repositories, star the projects you find interesting, and don't hesitate to reach out via email or any of the social media links below.
+I'm thrilled to have you here! If you're as passionate about data, AI/ML, and open source as I am, let's connect and learn from each other. Feel free to explore my repositories, star the projects you find interesting, and don't hesitate to reach out via email or any of the social media links below.
 
 Happy coding! 💻
 
-✉️ Email: Duchybella@gmail.com
+✉️ Email: Bellamalwatech@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/kristabel-wamalwa-ba865b219
 
